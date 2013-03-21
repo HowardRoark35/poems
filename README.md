@@ -2,6 +2,6 @@
 
 Poems from:
 
-* Shakespeare (technicall "blank verse")
+* Shakespeare (technically "blank verse")
 * Tolkien
 * D.H. Lawrence
